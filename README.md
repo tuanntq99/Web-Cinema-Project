@@ -24,7 +24,8 @@ The system is an online showcase of a single-screen cinema.
     2) the cinema; 
     3) the date/time of the session (by default); as well as filter available movies (due to empty seats) in the schedule.
 + A signed-up user has to be able to purchase a ticket for the selected movie session.
-+ The administrator can add a new movie to the schedule, cancel the movie, and review the attendance of the hall, the administator also can CRUD foods, seats, room and cinema.
++ User can sign up/in with confirm email. Also can forgot, reset and change password.
++ The administrator can add a new movie to the schedule, cancel the movie, and review the attendance of the hall, the administator also can CRUD foods, seats, room and cinema. And only administrator can change role user.
 
 ## Changelog
 08 April 2024:
