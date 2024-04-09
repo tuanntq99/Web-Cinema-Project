@@ -41,6 +41,7 @@ The system is an online showcase of a single-screen cinema.
 * Hibernate
 * MySQL
 * VNPAY
+* JWT
 * Postman and SwaggerUI
 #### Used tools:
 * Maven
